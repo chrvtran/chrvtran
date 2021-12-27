@@ -8,3 +8,5 @@ Particularly, physical computing (like Arduino), artificial intelligence, video 
 - Known Languages: Python, JAVA, JavaScript, C
 - Familiar Languages: C++, C#
 - Other Skills: Visual Studio Code, Arduino IDE, TinkerCAD, briefly Unity
+
+Note: I just made this GitHub for job searching purposes, so it is currently a work in progress
