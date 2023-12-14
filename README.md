@@ -1,3 +1,1 @@
-- Hello, I am **Christopher Tran**. I am a UX designer and software engineer.
-- Education: **University of Massachusetts Amherst** with a Bachelor of Science in Computer Science
-- Email: chrvtran@gmail.com
+- Hello, I am **Christopher Tran**. I am a UX Researcher, UI Designer, and Software Developer.
