@@ -5,4 +5,3 @@ Let's create products that are stunning, fun, and easy to use!
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/chrvtran/
-- Email: chrvtran@gmail.com
