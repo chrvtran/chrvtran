@@ -5,3 +5,17 @@ Let's create products that are stunning, fun, and easy to use!
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/chrvtran/
+
+### Skills
+- HTML / CSS
+- JavaScript
+  - React
+  - React Native
+  - ExpressJS
+  - ThreeJS
+- Python
+  - Tkinter
+  - Sockets
+- C / C++ / C#
+- R
+- SQL / PostgreSQL
