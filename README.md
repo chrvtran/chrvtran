@@ -9,15 +9,10 @@ Let's create products that are clean and easy to use!
 - LinkedIn: https://www.linkedin.com/in/chrvtran/
 
 ### Languages and Libraries
-- HTML / CSS
+- React / React Native
 - JavaScript
-  - React
-  - React Native
-  - ExpressJS
-  - ThreeJS
+- HTML / CSS
+- Unity 3D / C#
 - Python
-  - Tkinter
-  - Sockets
-- C / C++ / C#
-- R
-- SQL / PostgreSQL
+- Atlassian: Bitbucket, Jira, Confluence, Loom
+- Jenkins CI/CD Pipelines
