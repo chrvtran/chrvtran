@@ -37,7 +37,6 @@
 
 <br>
 
-## About Me
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A8BFA5&height=3" width="100%">
 <br>
 
@@ -46,11 +45,14 @@ I'm excited by solving real-world problems through technology, whether that's cr
 
 <br>
 
-### Goals
+### Goal
 I want to keep growing as an engineer and designer, working on products that solve real problems. I'm actively building my skills across software engineering, AI, and product design through graduate study, hands-on projects, and experimenting with new technologies.
 
+<br>
 
-<br> <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A8BFA5&height=3" width="100%">
+
+<br>
 
 ### Program & Development:
 	JavaScript, HTML/CSS, React, Python, Java, JUnit, SQL, C, Unity C#, Git, APIs, Visual Studio Code, Cursor
