@@ -1,8 +1,5 @@
 ## Hi, I'm Christopher Tran
 
-I design and build products at the frontier of emerging tech. With a technical engineering foundation and hands-on startup execution, I hand-off on functional, stateful prototypes in code, audit complex system architectures, and design interfaces for users of generative AI.
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A8BFA5&height=3" width="100%">
 <br>
 
@@ -38,23 +35,32 @@ I design and build products at the frontier of emerging tech. With a technical e
 
 <br>
 
+## About Me
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A8BFA5&height=3" width="100%">
+<br>
 
-## Interests & Goals
+### Interests
+I'm excited by solving real-world problems through technology, whether that's creating an automation tool, website, app, or an entirely new solution. I'm particularly interested in emerging technologies, generative AI, and the intersection of engineering and product design. I enjoy taking ideas from early mockups to functional prototypes.
 
-### Work Processes:
-	Agile, Wireframing, Prototyping, User Research, Usability Testing, Visual Design, Design System, QA
-  
-### Product & Design:
-	Figma, MCP, Cline, Gemini, Claude, v0, Bolt.new, Lovable, WCAG 2.2, ServiceNow, CMS, Jira, Confluence
+<br>
+
+### Goals
+I want to keep growing as an engineer and designer, working on products that solve real problems. I'm actively building my skills across software engineering, AI, and product design through graduate study, hands-on projects, and experimenting with new technologies.
+
+
+<br> <br>
 
 ### Program & Development:
 	JavaScript, HTML/CSS, React, Python, Java, JUnit, SQL, C, Unity C#, Git, APIs, Visual Studio Code, Cursor
 
+### Product & Design:
+	Figma, MCP, Cline, Gemini, Claude, v0, Bolt.new, Lovable, WCAG 2.2, ServiceNow, CMS, Jira, Confluence
 
+### Process:
+	Agile, Wireframing, Prototyping, User Research, Usability Testing, Visual Design, Design System, QA
 <br> 
 
 ## Personal Sites
-- [Resume](https://drive.google.com/file/d/1TbTNCit7ck_buxVHfpi1SXLMHZO4-oKq/view?usp=sharing) - PDF View
+- [![Resume](https://img.shields.io/badge/Resume-View-2F6FEB?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TbTNCit7ck_buxVHfpi1SXLMHZO4-oKq/view?usp=sharing)
 - [Portfolio](https://www.chrvtran.net) - chrvtran.net
 - [LinkedIn](https://www.linkedin.com/in/chrvtran/) - linkedin.com/in/chrvtran
