@@ -1,5 +1,3 @@
-## Hi, I'm Christopher Tran
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A8BFA5&height=3" width="100%">
 <br>
 
@@ -12,6 +10,10 @@
 💡 ```Exploring how AI-native workflows intersects with emerging automative tools``` <br>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A8BFA5&height=3" width="100%">
+<br>
+
 <div align="center">
 
 ### Products
