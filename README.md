@@ -6,7 +6,7 @@
 🔈 ```Current Tech Specialist @ BU Information Services & Technology``` <br>
 📚 ```Prev UX & Product Designer @ RightOn Education, Savasana AI``` <br>
 🍋 ```Lead UI/UX Designer @ SafeLemons - Wedge: Receipt & Bill Splitter App``` <br>
-🛬 ```Prev SWE @ RTX, L3Harris Technologies``` <br>
+🛬 ```Prev SWE @ Raytheon, L3Harris Technologies``` <br>
 💡 ```Exploring how AI-native workflows intersects with emerging automative tools``` <br>
 
 <br>
